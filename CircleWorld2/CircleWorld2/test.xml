@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd"
+  [
+  <!ENTITY % svg-prefw-redecl.mod "">
+  <!ENTITY % svg-postfw-redecl.mod "">
+  ]>
+<svg x="0" y="0" width="5280" height="5280" version="1.1" baseProfile="CircleWorld"
+    xmlns="http://www.w3.org/2000/svg" >
+	<!--<circle cx="200" cy="20" r="10.1"/>
+	<circle cx="200" cy="40" r="10.1"/>
+	<circle cx="200" cy="60" r="10.1"/>
+	<circle cx="200" cy="80" r="10.1"/>
+	<circle cx="200" cy="100" r="10.1"/>
+	<circle cx="200" cy="120" r="10.1"/>
+	<circle cx="200" cy="140" r="10.1"/>
+	<circle cx="200" cy="160" r="10.1"/>-->
+
+  <!--<polygon points="  190,70 210,70 210,50 200,50"/>
+  <polygon points="  200,50 210,50,210,10 190,10"/>-->
+
+  <polygon  points="  190,70 210,70 210,10 190,10 200,50 "/>
+
+  <polygon fill="Blue" points="50,50, 70,10, 80,80"/>
+
+  <circle cx="72" cy="220" r="20"/>
+
+  <circle cx="10" cy="10" r="1.752"/>
+  
+  <circle cx="200" cy="220" r="10.1"/>
+	<circle cx="200" cy="240" r="10.1"/>
+	<circle cx="200" cy="260" r="10.1"/>
+	<circle cx="200" cy="280" r="10.1"/>
+	<circle cx="200" cy="300" r="10.1"/>
+	<circle cx="200" cy="320" r="10.1"/>
+	<circle cx="200" cy="340" r="10.1"/>
+	<circle cx="200" cy="360" r="10.1"/>
+	<circle cx="200" cy="380" r="10.1"/>
+
+	<circle cx="400" cy="20" r="10.1"/>
+	<circle cx="400" cy="40" r="10.1"/>
+	<circle cx="400" cy="60" r="10.1"/>
+	<circle cx="400" cy="80" r="10.1"/>
+	<circle cx="400" cy="100" r="10.1"/>
+	<circle cx="400" cy="120" r="10.1"/>
+	<circle cx="400" cy="140" r="10.1"/>
+	<circle cx="400" cy="160" r="10.1"/>
+
+
+	<circle cx="400" cy="220" r="10.1"/>
+	<circle cx="400" cy="240" r="10.1"/>
+	<circle cx="400" cy="260" r="10.1"/>
+	<circle cx="400" cy="280" r="10.1"/>
+	<circle cx="400" cy="300" r="10.1"/>
+	<circle cx="400" cy="320" r="10.1"/>
+	<circle cx="400" cy="340" r="10.1"/>
+	<circle cx="400" cy="360" r="10.1"/>
+	<circle cx="400" cy="380" r="10.1"/>
+	
+	<circle cx="400" cy="160" r="10.1"/>
+	<circle cx="420" cy="160" r="10.1"/>
+	<circle cx="440" cy="160" r="10.1"/>
+	<circle cx="460" cy="160" r="10.1"/>
+	<circle cx="480" cy="160" r="10.1"/>
+	<circle cx="500" cy="160" r="10.1"/>
+	<circle cx="520" cy="160" r="10.1"/>
+	<circle cx="540" cy="160" r="10.1"/>
+	<circle cx="560" cy="160" r="10.1"/>
+	<circle cx="580" cy="160" r="10.1"/>
+	<circle cx="600" cy="160" r="10.1"/>
+	<circle cx="620" cy="160" r="10.1"/>
+	<circle cx="640" cy="160" r="10.1"/>
+	<circle cx="660" cy="160" r="10.1"/>
+	<circle cx="680" cy="160" r="10.1"/>
+	<circle cx="700" cy="160" r="10.1"/>
+	<circle cx="720" cy="160" r="10.1"/>
+	<circle cx="740" cy="160" r="10.1"/>
+	<circle cx="760" cy="160" r="10.1"/>
+	<circle cx="780" cy="160" r="10.1"/>
+	
+	
+	<circle cx="400" cy="220" r="10.1"/>
+	<circle cx="420" cy="220" r="10.1"/>
+	<circle cx="440" cy="220" r="10.1"/>
+	<circle cx="460" cy="220" r="10.1"/>
+	<circle cx="480" cy="220" r="10.1"/>
+	<circle cx="500" cy="220" r="10.1"/>
+	<circle cx="520" cy="220" r="10.1"/>
+	<circle cx="540" cy="220" r="10.1"/>
+	<circle cx="560" cy="220" r="10.1"/>
+	<circle cx="580" cy="220" r="10.1"/>
+	<circle cx="600" cy="220" r="10.1"/>
+	<circle cx="620" cy="220" r="10.1"/>
+	<circle cx="640" cy="220" r="10.1"/>
+	<circle cx="660" cy="220" r="10.1"/>
+	<circle cx="680" cy="220" r="10.1"/>
+	<circle cx="700" cy="220" r="10.1"/>
+	<circle cx="720" cy="220" r="10.1"/>
+	<circle cx="740" cy="220" r="10.1"/>
+	<circle cx="760" cy="220" r="10.1"/>
+	<circle cx="780" cy="220" r="10.1"/>
+
+	<circle cx="200" cy="160" r="10.1"/>
+	<circle cx="180" cy="160" r="10.1"/>
+	<circle cx="160" cy="160" r="10.1"/>
+	<circle cx="140" cy="160" r="10.1"/>
+	<circle cx="120" cy="160" r="10.1"/>
+	<circle cx="100" cy="160" r="10.1"/>
+	<circle cx="80" cy="160" r="10.1"/>
+	<circle cx="60" cy="160" r="10.1"/>
+	<circle cx="40" cy="160" r="10.1"/>
+	<circle cx="20" cy="160" r="10.1"/>
+	
+	
+	<circle cx="200" cy="220" r="10.1"/>
+	<circle cx="180" cy="220" r="10.1"/>
+	<circle cx="160" cy="220" r="10.1"/>
+	<circle cx="140" cy="220" r="10.1"/>
+	<circle cx="120" cy="220" r="10.1"/>
+	<circle cx="100" cy="220" r="10.1"/>
+	<circle cx="80" cy="220" r="10.1"/>
+	<circle cx="60" cy="220" r="10.1"/>
+	<circle cx="40" cy="220" r="10.1"/>
+	<circle cx="20" cy="220" r="10.1"/>
+</svg>

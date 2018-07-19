@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CircleWorld2", "CircleWorld2\CircleWorld2.vbproj", "{0C37C413-66DA-4697-A801-F6A7471C0FDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelcroPhysics", "VelcroPhysics\VelcroPhysics.csproj", "{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Description = Learn 2D graphics and collison detection
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0C37C413-66DA-4697-A801-F6A7471C0FDB}.Release|x86.ActiveCfg = Release|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Debug|x86.Build.0 = Debug|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Release|x86.ActiveCfg = Release|Any CPU
+		{2D306CDE-BEB7-4278-9013-F19B2DE3DFBA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB46ADB-4DF9-4B8A-976E-2A8DE611279E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://thabing.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CircleWorld2\\CircleWorld2.vbproj
+		SccProjectName1 = CircleWorld2
+		SccLocalPath1 = CircleWorld2
+		SccProjectUniqueName2 = VelcroPhysics\\VelcroPhysics.csproj
+		SccProjectName2 = VelcroPhysics
+		SccLocalPath2 = VelcroPhysics
+	EndGlobalSection
+EndGlobal

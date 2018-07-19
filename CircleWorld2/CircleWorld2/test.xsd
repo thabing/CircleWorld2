@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<xs:schema id="NewDataSet" targetNamespace="http://www.w3.org/2000/svg" xmlns:mstns="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="unqualified" elementFormDefault="qualified">
+	<xs:element name="svg">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="circle" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attribute name="cx" form="unqualified" type="xs:string" />
+						<xs:attribute name="cy" form="unqualified" type="xs:string" />
+						<xs:attribute name="r" form="unqualified" type="xs:string" />
+            <xs:attribute name="fill" form="unqualified" type="xs:string" />
+          </xs:complexType>
+				</xs:element>
+				<xs:element name="polygon" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attribute name="points" form="unqualified" type="xs:string" />
+            <xs:attribute name="fill" form="unqualified" type="xs:string" />
+          </xs:complexType>
+				</xs:element>
+			</xs:choice>
+			<xs:attribute name="x" form="unqualified" type="xs:string" />
+			<xs:attribute name="y" form="unqualified" type="xs:string" />
+			<xs:attribute name="width" form="unqualified" type="xs:string" />
+			<xs:attribute name="height" form="unqualified" type="xs:string" />
+			<xs:attribute name="version" form="unqualified" type="xs:string" />
+			<xs:attribute name="baseProfile" form="unqualified" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
